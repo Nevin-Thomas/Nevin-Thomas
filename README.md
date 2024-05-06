@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, my name is Nevin Thomas
 
-<!--
-**Nevin-Thomas/Nevin-Thomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="1834" alt="Make your README" src="https://github.com/Nevin-Thomas/Nevin-Thomas/assets/106274286/fdfb7e7d-50b1-4492-8de2-c811a760ca77">
 
-Here are some ideas to get you started:
+Hello, I'm Nevin Thomas. I am a student studying Bsc Information and Knowdlege Systems (IT and Enterprise). I really enjoy learning languages and frameworks. I am also very interested in web design and development, and cyber security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: REACT / Java / C++ / JS / HTML / CSS / Angular
+
+- 🔭 I’m currently working on this page. 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nevin-Thomas)](https://github.com/anuraghazra/github-readme-stats)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Nevin-Thomas) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nevin-thomas-a625462b3//)  
