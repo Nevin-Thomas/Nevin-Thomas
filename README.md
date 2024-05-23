@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Nevin Thomas
 
-<img width="1834" alt="Make your README" src="https://github.com/Nevin-Thomas/Nevin-Thomas/assets/106274286/fdfb7e7d-50b1-4492-8de2-c811a760ca77">
 
 Hello, I'm Nevin Thomas. I am a student studying Bsc Information and Knowledge Systems (IT and Enterprise). I really enjoy learning languages and frameworks. I am also very interested in web design and development, and cyber security.
 
