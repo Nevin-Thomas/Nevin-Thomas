@@ -24,4 +24,5 @@
 
 - 🔭 I’m currently working on this page.
 - 👀 I'm looking to expand my knowledge in cyber security and web design.
-- You can also contact me on my email nevinkadavilthomas@gmail.com
+- 📫 You can also contact me on my email nevinkadavilthomas@gmail.com
+- 🌱 Also check out my portfoli (still in progress) https://relaxed-zuccutto-1e6c77.netlify.app
