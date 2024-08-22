@@ -21,7 +21,9 @@
 
 ## Get In Touch
 <a href="[https://www.linkedin.com/in/praveen-seneviratne-45a44a197/](https://www.linkedin.com/in/https://www.linkedin.com/in/nevin-thomas-a625462b3//)"><img src="https://img.icons8.com/color/50/000000/linkedin.png"/></a>
-<img src="media/icon.svg" width="200" height="200">
+<div>
+    <img src="media/icon.svg" width="200" height="200">
+<div/>
 
 - 🔭 I’m currently working on this page. 
 
