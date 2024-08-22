@@ -19,7 +19,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>     
 </p>
 
-## Get In Touch
+## Get in Touch With Me
 <a href="https://www.linkedin.com/in/nevin-thomas-a625462b3/"><img src="https://img.icons8.com/color/50/000000/linkedin.png"/></a>
 
 - 🔭 I’m currently working on this page.
