@@ -19,9 +19,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>     
 </p>
 
+## Get In Touch
+<a href="[https://www.linkedin.com/in/praveen-seneviratne-45a44a197/](https://www.linkedin.com/in/https://www.linkedin.com/in/nevin-thomas-a625462b3//)"><img src="https://img.icons8.com/color/50/000000/linkedin.png"/></a>
+// <a href="https://www.instagram.com/paz_guru/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
 - 🔭 I’m currently working on this page. 
 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Nevin-Thomas) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nevin-thomas-a625462b3//)  
