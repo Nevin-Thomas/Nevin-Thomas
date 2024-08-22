@@ -3,7 +3,16 @@
 
 Hello, I'm Nevin Thomas. I am a student studying Bsc Information and Knowledge Systems (IT and Enterprise). I really enjoy learning languages and frameworks. I am also very interested in web design and development.
 
-Skills: REACT / Java / C++ / JS / HTML / CSS / Angular
+#Skills
+Basic foundation in: 
+REACT 
+Java 
+C++ 
+JS 
+HTML 
+CSS 
+Angular
+Ionic
 
 - 🔭 I’m currently working on this page. 
 
