@@ -1,7 +1,8 @@
 ### Hi there 👋, my name is Nevin Thomas
 
-
-Hello, I'm Nevin Thomas. I am a student studying Bsc Information and Knowledge Systems (IT and Enterprise). I really enjoy learning languages and frameworks. I am also very interested in web design and development.
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nevin Thomas</h1>
+<h3 align="center">I'm a passionate about Cyber Security, Web Development and Design.r</h3>
+ 
 
 #Skills
 Basic foundation in: <br/>
