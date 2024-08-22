@@ -24,4 +24,4 @@
 
 - 🔭 I’m currently working on this page.
 - 👀 I'm looking to expand my knowledge in cyber security and web design.
-
+- You can also contact me on my email nevinkadavilthomas@gmail.com
