@@ -20,7 +20,7 @@
 </p>
 
 ## Get In Touch
-<a href="linkedin.com/in/nevin-thomas-a625462b3"><img src="https://img.icons8.com/color/50/000000/linkedin.png"/></a>
+<a href="[linkedin.com/in/nevin-thomas-a625462b3](https://www.linkedin.com/in/nevin-thomas-a625462b3/)"><img src="https://img.icons8.com/color/50/000000/linkedin.png"/></a>
 
 - 🔭 I’m currently working on this page.
 - 👀 I'm looking to expand my knowledge in cyber security and web design.
