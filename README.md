@@ -5,7 +5,7 @@ Hello, I'm Nevin Thomas. I am a student studying Bsc Information and Knowledge S
 
 #Skills
 Basic foundation in: 
-REACT 
+REACT <br/>
 Java 
 C++ 
 JS 
