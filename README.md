@@ -4,17 +4,19 @@
 <h3 align="center">I'm a passionate about Cyber Security, Web Development and Design.</h3>
  
 
-<h3>Skills</h3> <br/>
-Basic foundation in: <br/>
-<p>
-REACT <br/>
-Java <br/>
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> C++ <br/>
-JS <br/>
-HTML <br/>
-CSS <br/>
-Angular <br/>
-Ionic <br/>
+## Languages and Tools
+<p align="left">
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/python.png"/>
+    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+    <img style="padding-right:6px;" src="https://img.icons8.com/officel/40/000000/php-logo.png"/>
+    <img style="padding-right:6px;" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+    <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>    
+    <img style="padding-right:6px;" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>     
 </p>
 
 - 🔭 I’m currently working on this page. 
