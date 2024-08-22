@@ -1,19 +1,21 @@
 ### Hi there 👋, my name is Nevin Thomas
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nevin Thomas</h1>
-<h3 align="center">I'm a passionate about Cyber Security, Web Development and Design.r</h3>
+<h3 align="center">I'm a passionate about Cyber Security, Web Development and Design.</h3>
  
 
-#Skills
+<h3>Skills</h3> <br/>
 Basic foundation in: <br/>
+<p>
 REACT <br/>
 Java <br/>
-C++ <br/>
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> C++ <br/>
 JS <br/>
 HTML <br/>
 CSS <br/>
 Angular <br/>
 Ionic <br/>
+</p>
 
 - 🔭 I’m currently working on this page. 
 
