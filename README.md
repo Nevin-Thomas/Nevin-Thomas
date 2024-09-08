@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nevin Thomas</h1>
-<h3 align="center">I'm a passionate about Cyber Security, Web Development and Design.</h3>
+<h3 align="center">I'm passionate about Cyber Security, Web Development and Design.</h3>
 
 ##  My Github Stats 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nevin-Thomas)](https://github.com/anuraghazra/github-readme-stats)
